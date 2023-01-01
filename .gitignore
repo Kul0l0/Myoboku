@@ -1,5 +1,8 @@
 # temporary file
 tmp.*
 
-sort/
+# python
+*.pyc
+
+# other
 .idea/
